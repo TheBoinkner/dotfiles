@@ -1,0 +1,8 @@
+# Ignore SSH keys
+.ssh/
+# Ignore caches
+.cache/
+# Ignore temporary files
+*.swp
+*.log
+
